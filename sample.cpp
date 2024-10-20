@@ -6,7 +6,7 @@ int
 main(void){
 	cout<<"Hello git"<<endl;
 	cout<<"Oh wow"<<endl;
-	;;;;pqqqq
+	//I dont get it 
 	;;;;;;;;;
 	;;;;;;;;;;;;
 	
